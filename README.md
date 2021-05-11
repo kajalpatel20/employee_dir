@@ -40,7 +40,7 @@ https://kajalpatel20.github.io/employee_dir/
 
 * the URL to the Github repository
 
-https://github.com/kajalpatel20/employeeDir
+https://github.com/kajalpatel20/employee_dir
 
 ## License:
  APACHE 2.0
