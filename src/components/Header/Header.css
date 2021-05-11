@@ -1,0 +1,11 @@
+.header {
+    padding: 30px 0;
+    color: #131010;
+    font-size: bold;
+    width: 100%;
+    text-align: center;
+    border-top: 5px solid purple;
+    border-bottom: 5px solid purple;
+    margin-bottom: 10px;
+    background-image: url("images/pink.jpeg");
+}
