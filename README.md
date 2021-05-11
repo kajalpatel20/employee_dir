@@ -36,7 +36,7 @@ You are required to submit the following:
 
 * the URL to the deployed application
 
-https://kajalpatel20.github.io/employeeDir/
+https://kajalpatel20.github.io/employee_dir/
 
 * the URL to the Github repository
 
